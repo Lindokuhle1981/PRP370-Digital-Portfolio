@@ -32,7 +32,8 @@ I participated in a career counselling session hosted by CPUT Career Services. W
   - Communication, team collaboration, attention to detail
 
 ### 🛠️ Practical Projects
-- 🖥️ [CPUT Network Topology Simulation (Packet Tracer)](./projects/README.md)  
+🖥️ [Download Packet Tracer Simulation](./CPUT%20NETWORK%20TOPOLOGY%20FINAL.pkt)
+ 
   Designed and implemented a simulated network topology with VLSM, DHCP, and static routes for a class assignment using Cisco Packet Tracer.
 
 ### 🌟 Reflection (STAR)
