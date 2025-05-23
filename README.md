@@ -59,7 +59,8 @@ I completed the 16Personalities test (MBTI) and identified as an **ISTJ (Logisti
 ## 📁 4. Create a CV
 
 ### 📄 Evidence
-📄 [Lindokuhle Lusiba - CV (PDF)](./Lindokuhle_Lusiba_CV.pdf)
+📄 [Lindokuhle Lusiba - CV (PDF)](./Lindokuhle_Lusiba_Final_Resume.pdf)
+
 
 ### 🌟 Reflection (STAR)
 **Situation:** I needed a professional CV for job applications.  
@@ -73,7 +74,8 @@ I completed the 16Personalities test (MBTI) and identified as an **ISTJ (Logisti
 
 ### 📄 Evidence
 - 📑 [Cover Letter (PDF)](./Lindokuhle_Lusiba_Cover_Letter_2025.pdf)  
-- 📄 [CV (PDF)](./Lindokuhle_Lusiba_CV.pdf)  
+- 📄 📄 [Lindokuhle Lusiba - CV (PDF)](./Lindokuhle_Lusiba_Final_Resume.pdf)
+ 
 - Additional screenshots or confirmations can be found in the `cv-submissions/` folder (if uploaded).
 
 ### 🌟 Reflection (STAR)
