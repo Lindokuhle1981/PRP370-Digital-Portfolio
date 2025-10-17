@@ -6,7 +6,7 @@ Assessment Period: 19 – 23 May 2025
 
 ---
 
-## 📁 1. Career Counselling
+## 📁 1.Career Counselling
 
 ### 📄 Evidence
 I participated in a career counselling session hosted by CPUT Career Services. We explored ICT roles suited to my strengths and interests. I also completed an online assessment using [MyNextMove](https://www.mynextmove.org/).
